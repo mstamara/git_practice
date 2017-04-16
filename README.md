@@ -1,2 +1,1 @@
-# git_practice
-Practice Repository
+Hello Git and GitHub
